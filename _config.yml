@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Mandep Bal
-tagline:             'Mandeep Bal'
-description:         'My misadventures when using computers'
+title:               Mandep
+tagline:             'in the clouds...'
+description:         'misadventures while using computers'
 url:                 http://mandeepbal.github.io
 baseurl:             ''
 paginate:            5
