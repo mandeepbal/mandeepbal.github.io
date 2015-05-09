@@ -3,7 +3,7 @@ layout: post
 title: Deploying ManageIQ (Anand Release)
 ---
 
-```
+{% highlight bash %}
 chmod 777 /opt
 useradd miqbuilder
 echo "" >> /etc/sudoers
@@ -56,4 +56,4 @@ cp config/database.pg.yml config/database.yml
 bin/rake db:migrate
 cd /opt/manageiq/vmdb/
 bin/rake evm:start
-```
+{% endhighlight %}
