@@ -1,0 +1,21 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Mandep Bal
+tagline:             'Mandeep Bal'
+description:         'My misadventures when using computers'
+url:                 http://mandeepbal.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Mandeep Bal
+  url:               https://twitter.com/manuinthecloud
+
+# Custom vars
+version:             1.0.0
